@@ -1,5 +1,6 @@
 # LCD
-Affichage LCD\n
+Affichage LCD
+
 ```
 @     @@@@@ @@@@
 @     @     @   @
